@@ -6,7 +6,7 @@
 </p>
                 
   [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-begdes/) 
-<a href="https://johnwise2022.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=johnwise" alt="visitor counter" width="15%"/>
+<a href="https://mustafabegdes.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=mustafabegdes" alt="visitor counter" width="15%"/>
 <!-- <p align="center">  </p> -->
 
 ### What I'm using ? 🛠
@@ -50,9 +50,9 @@
 
 ## 📊 Statistics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=johnwise2022&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=johnwise2022&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwise2022&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<img src="https://github-readme-stats.vercel.app/api?username=mustafabegdes&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafabegdes&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafabegdes&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
 
 
